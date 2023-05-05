@@ -1,0 +1,12 @@
+#screen {
+    display: block;
+    margin: auto;
+    background-color: gray;
+  }
+
+
+  #heading{
+    margin: auto;
+    text-align: center;
+    font-size: 80px;
+  }
